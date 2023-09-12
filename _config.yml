@@ -49,8 +49,8 @@ author:
 
 # Add links to the sidebar.
 menu:
-  - title:             Example
-    url:               /example/
+  - title:             Project
+    url:               /project/
   - title:             Documentation
     url:               /docs/
   - title:             About
@@ -67,7 +67,7 @@ legal:
     url:               /CHANGELOG/
 
 # This text will appear in a `<small>` tag in the footer of every page.
-copyright:             © 2021. All rights reserved.
+copyright:             ©sillonjeu
 
 # Format of the permalinks
 permalink:             /:categories/:year-:month-:day-:title/
