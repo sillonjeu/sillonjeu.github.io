@@ -15,17 +15,11 @@ permalink: /project/
 {:.note} -->
 
 ## React-Native
-* [WORKAHALLIC]{:.heading.flip-title} --- 시간표를 활용한 대학생 일정 관리 앱
-<!-- * [Upgrade]{:.heading.flip-title} --- You can skip this if you haven't used Hydejack before.
-* [Config]{:.heading.flip-title} --- Once Jekyll is running you can start editing your config file. -->
+* [WORKAHALLIC]{:.heading.flip-title} --- 시간표를 활용한 대학생 일정 관리 앱.
 {:.related-posts.faded}
 
 ## Flutter
 * [Bossle]{:.heading.flip-title} --- 외출 전, 우산을 챙기도록 일깨워 줄 라이브스크린 앱
-<!-- * [Writing]{:.heading.flip-title} --- Producing markdown content for Hydejack.
-* [Scripts]{:.heading.flip-title} --- How to include 3rd party scripts on your site.
-* [Build]{:.heading.flip-title} --- How to build the static files for deployment.
-* [Advanced]{:.heading.flip-title} --- Guides for more advanced tasks. -->
 {:.related-posts.faded}
 
 ## Other
@@ -34,7 +28,7 @@ permalink: /project/
 * [CHANGELOG]{:.heading.flip-title} --- Version history of Hydejack.
 {:.related-posts.faded}
 
-[WORKAHALLIC]: 2012-02-07-example-content.md
+[WORKAHALLIC]: ./_posts/2012-02-07-example-content.md
 [upgrade]: upgrade.md
 [config]: config.md
 [basics]: basics.md
