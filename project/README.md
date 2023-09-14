@@ -27,5 +27,5 @@ permalink: /project/
 {:.related-posts.faded}
 
 [WORKAHALLIC]: ./WORKAHALLIC.md
-[ER_SENTINEL]: ./_posts/ER_SENTINEL.md
-[Bossle]: ./_posts/Bossle.md
+[ER_SENTINEL]: ./ER_SENTINEL.md
+[Bossle]: ./Bossle.md
