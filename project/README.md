@@ -18,24 +18,14 @@ permalink: /project/
 * [WORKAHALLIC]{:.heading.flip-title} --- 시간표를 활용한 대학생 일정 관리 앱.
 {:.related-posts.faded}
 
+## React
+* [ER_SENTINEL]{:.heading.flip-title} --- 응급실 혼잡도 알리미 앱.
+{:.related-posts.faded}
+
 ## Flutter
 * [Bossle]{:.heading.flip-title} --- 외출 전, 우산을 챙기도록 일깨워 줄 라이브스크린 앱
 {:.related-posts.faded}
 
-## Other
-* [LICENSE]{:.heading.flip-title} --- The license of this project.
-* [NOTICE]{:.heading.flip-title} --- Parts of this program are provided under separate licenses.
-* [CHANGELOG]{:.heading.flip-title} --- Version history of Hydejack.
-{:.related-posts.faded}
-
-[WORKAHALLIC]: ./_posts/2012-02-07-example-content.md
-[upgrade]: upgrade.md
-[config]: config.md
-[basics]: basics.md
-[writing]: writing.md
-[scripts]: scripts.md
-[build]: build.md
-[advanced]: advanced.md
-[LICENSE]: ../LICENSE.md
-[NOTICE]: ../NOTICE.md
-[CHANGELOG]: ../CHANGELOG.md
+[WORKAHALLIC]: ./_posts/WORKAHALLIC.md
+[ER_SENTINEL]: ./_posts/ER_SENTINEL.md
+[Bossle]: ./_posts/Bossle.md
