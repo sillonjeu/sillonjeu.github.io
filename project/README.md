@@ -23,7 +23,7 @@ permalink: /project/
 {:.related-posts.faded}
 
 ## Flutter
-* [Bossle]{:.heading.flip-title} --- 외출 전, 우산을 챙기도록 일깨워 줄 라이브스크린 앱
+* [Bossle]{:.heading.flip-title} --- 외출 전, 우산을 챙기도록 일깨워 줄 라이브스크린 앱.
 {:.related-posts.faded}
 
 [WORKAHALLIC]: ./_posts/WORKAHALLIC.md
