@@ -1,113 +1,46 @@
 ---
 layout: post
-title: Example Content
+title: 💼 WORKAHALLIC
 description: >
-  Howdy! This is an example blog post that shows several types of HTML content supported in this theme.
+  시간표를 활용한 대학생 일정 관리 앱
 sitemap: false
 hide_last_modified: true
 ---
 
-Cum sociis natoque penatibus et magnis <a href="#">dis parturient montes</a>, nascetur ridiculus mus. *Aenean eu leo quam.* Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum.
+## 🌟 프로젝트 소개
+<span style="color: grey;">(프로젝트의 배경, 목적 및 목표에 대한 간략한 소개를 제공하세요.)</span>
 
-> Curabitur blandit tempus porttitor. Nullam quis risus eget urna mollis ornare vel eu leo. Nullam id dolor id nibh ultricies vehicula ut id elit.
+## 🔧 기술 스택
+<span style="color: grey;">(프로젝트에서 사용된 기술과 당신의 역할에 대해 상세히 설명하세요.)</span>
 
-Etiam porta **sem malesuada magna** mollis euismod. Cras mattis consectetur purus sit amet fermentum. Aenean lacinia bibendum nulla sed consectetur.
+### 🛠 내 역할
+<span style="color: grey;">(당신의 개인적인 기여에 대한 상세한 설명을 제공하세요.)</span>
 
-## Inline HTML elements
+## 📈 프로젝트 작업 흐름
+<span style="color: grey;">(플로우 차트를 사용하여 프로젝트의 작업 흐름을 설명하세요. 각 단계에서의 당신의 역할도 포함시키세요.)</span>
 
-HTML defines a long list of available inline tags, a complete list of which can be found on the [Mozilla Developer Network](https://developer.mozilla.org/en-US/docs/Web/HTML/Element).
+### 🚧 도전과 해결책
+<span style="color: grey;">(개발 과정에서 발생한 도전과 그것들이 어떻게 극복되었는지 상세히 설명하세요.)</span>
 
-- **To bold text**, use `**To bold text**`.
-- *To italicize text*, use `*To italicize text*`.
-- Abbreviations, like HTML should be defined like this `*[HTML]: HyperText Markup Language`.
-- Citations, like <cite>&mdash; Mark otto</cite>, should use `<cite>`.
-- ~~Deleted~~ text should use `~~deleted~~` and <ins>inserted</ins> text should use `<ins>`.
-- Superscript <sup>text</sup> uses `<sup>` and subscript <sub>text</sub> uses `<sub>`.
+#### 🐞 오류 해결
+<span style="color: grey;">(개발 중 발생한 중요한 오류와 그 해결 과정에 대해 설명하세요.)</span>
 
-Most of these elements are styled by browsers with few modifications on our part.
+## 🎉 최종 결과물
+<span style="color: grey;">(프로젝트의 최종 결과물을 보여주고 기능과 특징에 대해 설명하세요.)</span>
 
-## Heading 2
-Vivamus sagittis lacus vel augue rutrum faucibus dolor auctor. Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Morbi leo risus, porta ac consectetur ac, vestibulum at eros.
+## 🤔 회고
+<span style="color: grey;">(프로젝트를 통해 배운 점과 경험에 대한 당신의 생각을 공유하세요.)</span>
 
-### Heading 3
-Vivamus sagittis lacus vel augue rutrum faucibus dolor auctor.
+## 📜 결론
+<span style="color: grey;">(WORKAHALLIC 프로젝트의 여정을 요약하고, 그것이 당신과 팀에게 무엇을 의미하는지 설명하세요.)</span>
 
-#### Heading 4
-Vivamus sagittis lacus vel augue rutrum faucibus dolor auctor.
+## 📚 참조
+<span style="color: grey;">(프로젝트 개발에 도움이 된 참조 또는 리소스를 나열하세요.)</span>
 
-##### Heading 5
-Vivamus sagittis lacus vel augue rutrum faucibus dolor auctor.
+![프로젝트 이미지](https://via.placeholder.com/800x400 "프로젝트 이미지")
 
-###### Heading 6
-Vivamus sagittis lacus vel augue rutrum faucibus dolor auctor.
+*프로젝트 이미지 또는 포함하려는 기타 시각 자료의 실제 URL로 자리 표시자 URL을 교체하세요.*
 
-## Code
-
-Cum sociis natoque penatibus et magnis dis `code element` montes, nascetur ridiculus mus.
-
-~~~js
-// Example can be run directly in your JavaScript console
-
-// Create a function that takes two arguments and returns the sum of those
-// arguments
-var adder = new Function("a", "b", "return a + b");
-
-// Call the function
-adder(2, 6);
-// > 8
-~~~
-
-## Lists
-
-Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Aenean lacinia bibendum nulla sed consectetur. Etiam porta sem malesuada magna mollis euismod. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.
-
-* Praesent commodo cursus magna, vel scelerisque nisl consectetur et.
-* Donec id elit non mi porta gravida at eget metus.
-* Nulla vitae elit libero, a pharetra augue.
-
-Donec ullamcorper nulla non metus auctor fringilla. Nulla vitae elit libero, a pharetra augue.
-
-1. Vestibulum id ligula porta felis euismod semper.
-2. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-3. Maecenas sed diam eget risus varius blandit sit amet non magna.
-
-Cras mattis consectetur purus sit amet fermentum. Sed posuere consectetur est at lobortis.
-
-HyperText Markup Language (HTML)
-: The language used to describe and define the content of a Web page
-
-Cascading Style Sheets (CSS)
-: Used to describe the appearance of Web content
-
-JavaScript (JS)
-: The programming language used to build advanced Web sites and applications
-
-Integer posuere erat a ante venenatis dapibus posuere velit aliquet. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Nullam quis risus eget urna mollis ornare vel eu leo.
-
-## Images
-
-Quisque consequat sapien eget quam rhoncus, sit amet laoreet diam tempus. Aliquam aliquam metus erat, a pulvinar turpis suscipit at.
-
-![800x400](https://via.placeholder.com/800x400 "Large example image")
-
-![400x200](https://via.placeholder.com/400x200 "Medium example image")
-
-![200x200](https://via.placeholder.com/200x200 "Small example image")
-
-## Tables
-
-Aenean lacinia bibendum nulla sed consectetur. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-
-| Name     | Upvotes   | Downvotes |
-|:---------|:----------|:----------|
-| Alice    |        10 |        11 |
-| Bob      |         4 |         3 |
-| Charlie  |         7 |         9 |
-|==========|===========|===========|
-|Totals    |        21 |        23 |
-
-Nullam id dolor id nibh ultricies vehicula ut id elit. Sed posuere consectetur est at lobortis. Nullam quis risus eget urna mollis ornare vel eu leo.
-
-*[HTML]: HyperText Markup Language
-*[CSS]: Cascading Style Sheets
-*[JS]: JavaScript
+*[HTML]: 하이퍼텍스트 마크업 언어
+*[CSS]: 캐스캐이딩 스타일 시트
+*[JS]: 자바스크립트
