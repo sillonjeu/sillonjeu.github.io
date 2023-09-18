@@ -26,6 +26,6 @@ permalink: /project/
 * [Bossle]{:.heading.flip-title} --- 외출 전, 우산을 챙기도록 일깨워 줄 라이브스크린 앱.
 {:.related-posts.faded}
 
-[WORKAHALLIC]: ./WORKAHALLIC.md
-[ER_SENTINEL]: ./ER_SENTINEL.md
-[Bossle]: ./Bossle.md
+[WORKAHALLIC]: ./_posts/WORKAHALLIC.md
+[ER_SENTINEL]: ./_posts/ER_SENTINEL.md
+[Bossle]: ./_posts/Bossle.md
