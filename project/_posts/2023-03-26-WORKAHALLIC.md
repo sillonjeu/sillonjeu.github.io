@@ -1,10 +1,17 @@
 ---
-layout: post
-title: 📱 WORKAHALLIC
-description: >
-  시간표를 활용한 대학생 일정 관리 앱
-sitemap: false
-hide_last_modified: true
+title: "📱 WORKAHALLIC"
+excerpt: "시간표를 활용한 대학생 일정 관리 앱"
+
+categories:
+  - project
+tags:
+  - [project, jekyll, Github, Git, markdown, react-native]
+
+toc: true
+toc_sticky: true
+
+date: 2022-09-19
+last_modified_at: 2022-09-19
 ---
 
 ## 🌟 프로젝트 소개
