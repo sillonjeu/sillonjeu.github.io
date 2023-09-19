@@ -1,15 +1,10 @@
 ---
-title: "📱 WORKAHALLIC"
-excerpt: "시간표를 활용한 대학생 일정 관리 앱"
-
-categories:
-  - project
+title: 📱 WORKAHALLIC
+excerpt: 시간표를 활용한 대학생 일정 관리 앱
 tags:
   - [project, jekyll, Github, Git, markdown, react-native]
-
 toc: true
 toc_sticky: true
-
 date: 2022-09-19
 last_modified_at: 2022-09-19
 ---
@@ -26,10 +21,10 @@ last_modified_at: 2022-09-19
 ![프로젝트 개발 및 연구 내용(3)](../assets/WORKAHALLIC/프로젝트%20개발%20및%20연구%20내용%20(3).png "연구 내용(3)")
 <span style="color: grey;"></span>
 
-### 🛠 내 역할
+## 🛠 내 역할
 <span style="color: grey;"></span>
 
-#### 🐞 오류 해결
+## 🐞 오류 해결
 <span style="color: grey;"></span>
 
 ## 🎉 최종 결과물 및 활용 기대 효과
