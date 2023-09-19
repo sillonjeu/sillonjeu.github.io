@@ -28,4 +28,4 @@ permalink: /project/
 
 [WORKAHALLIC]: ./_posts/2023-03-26-WORKAHALLIC.md
 [ER_SENTINEL]: ./_posts/ER_SENTINEL.md
-[Bossle]: ./_posts/Bossle.md
+[Bossle]: ./_posts/2023-07-07-Bossle.md
