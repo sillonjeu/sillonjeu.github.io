@@ -1,11 +1,11 @@
 ---
 layout: post
-title:  "📱 WORKAHALLIC"
-date:   2022-09-19
+title: 📱 WORKAHALLIC
+description: >
+  시간표를 활용한 대학생 일정 관리 앱
+date: 2022-09-19
 categories: project
 tags: [project, jekyll, Github, Git, markdown, react-native]
-toc: true
-toc_sticky: true 
 last_modified_at: 2023-09-08
 ---
 
