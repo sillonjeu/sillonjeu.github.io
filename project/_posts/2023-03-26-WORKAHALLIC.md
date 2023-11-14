@@ -6,7 +6,7 @@ description: >
 date: 2022-09-19
 categories: project
 tags: [project, jekyll, Github, Git, markdown, react-native]
-last_modified_at: 2023-10-18
+last_modified_at: 2023-10-19
 ---
 
 ## 🌟 프로젝트 소개
